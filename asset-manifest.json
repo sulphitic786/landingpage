@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/landingpage/static/css/main.b21e1bfb.chunk.css",
+    "main.js": "/landingpage/static/js/main.6bfc4ee4.chunk.js",
+    "main.js.map": "/landingpage/static/js/main.6bfc4ee4.chunk.js.map",
+    "runtime-main.js": "/landingpage/static/js/runtime-main.d987d186.js",
+    "runtime-main.js.map": "/landingpage/static/js/runtime-main.d987d186.js.map",
+    "static/js/2.0ac6f407.chunk.js": "/landingpage/static/js/2.0ac6f407.chunk.js",
+    "static/js/2.0ac6f407.chunk.js.map": "/landingpage/static/js/2.0ac6f407.chunk.js.map",
+    "index.html": "/landingpage/index.html",
+    "static/css/main.b21e1bfb.chunk.css.map": "/landingpage/static/css/main.b21e1bfb.chunk.css.map",
+    "static/js/2.0ac6f407.chunk.js.LICENSE.txt": "/landingpage/static/js/2.0ac6f407.chunk.js.LICENSE.txt",
+    "static/media/RoyalMail.c3a0dd3e.png": "/landingpage/static/media/RoyalMail.c3a0dd3e.png",
+    "static/media/beauty.92843a2f.png": "/landingpage/static/media/beauty.92843a2f.png",
+    "static/media/chair.36ebccb2.jpg": "/landingpage/static/media/chair.36ebccb2.jpg",
+    "static/media/headphones.534f7e26.png": "/landingpage/static/media/headphones.534f7e26.png",
+    "static/media/home.c0e44605.jpg": "/landingpage/static/media/home.c0e44605.jpg",
+    "static/media/jackets.8308dc86.png": "/landingpage/static/media/jackets.8308dc86.png",
+    "static/media/kitchen.b9506b29.png": "/landingpage/static/media/kitchen.b9506b29.png",
+    "static/media/light.56f6161f.png": "/landingpage/static/media/light.56f6161f.png",
+    "static/media/logo.a1b40f66.jpg": "/landingpage/static/media/logo.a1b40f66.jpg",
+    "static/media/other.12aa75f0.jpg": "/landingpage/static/media/other.12aa75f0.jpg",
+    "static/media/shoe.73909905.png": "/landingpage/static/media/shoe.73909905.png",
+    "static/media/sofa.fb44b3e6.jpg": "/landingpage/static/media/sofa.fb44b3e6.jpg",
+    "static/media/sunglasses.1bb3587b.png": "/landingpage/static/media/sunglasses.1bb3587b.png",
+    "static/media/wave.f7cffbb3.jpg": "/landingpage/static/media/wave.f7cffbb3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d987d186.js",
+    "static/js/2.0ac6f407.chunk.js",
+    "static/css/main.b21e1bfb.chunk.css",
+    "static/js/main.6bfc4ee4.chunk.js"
+  ]
+}
